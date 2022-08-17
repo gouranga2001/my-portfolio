@@ -1,0 +1,114 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+#nav-bar{
+    position:relative;
+    top:0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    padding: 0 in !important;
+}
+.navbar-brand img{
+    height: 35px;
+    margin: 1px;
+}
+.navbar-nav li a{
+    color: white !important;
+    font-weight: 600;
+}
+.fa-bars{
+    color: white;
+    font-weight: normal !important;
+}
+.navbar-toggler{
+    outline: none !important;
+}
+#banner{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    color: white;
+    padding-top: 30px;
+    font-size: 15px;
+}
+.promo-title{
+    font-size: 30px;
+    font-weight: 200;
+    margin-top: 100px;
+}
+
+#bannerpic{
+    height: 251px;
+    margin-left: -22px;
+    margin-bottom: 0px;
+}
+.bottom_img{
+    width: 100%;
+}
+
+.class-header{
+    text-align: center;
+    background-color:( #a517ba);
+}
+
+.card-text{
+    text-align: center;
+    font-size: 114%;
+    letter-spacing: 0.1rem;
+    padding-bottom: 12%;
+}
+.card:hover{
+    transform: translateY(-0.5%);
+    box-shadow: 0 4rem 8rem rgba(0,0,0,0.5);
+}
+h5{
+    text-align: center;
+
+}
+.card-body{
+    border: 2px;
+}
+#computer{
+    height: auto;
+    width: 100%;
+}
+#computer-text{
+    padding: auto;
+}
+
+
+
+#about_contact{
+    text-align: center;
+    font-size: large;
+    letter-spacing: 0.1rem;
+    border-radius: 5px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 40px;
+  
+}
+footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    color: white;
+    height: 200px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    
+
+}
+
+/* footer{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+
+} */
